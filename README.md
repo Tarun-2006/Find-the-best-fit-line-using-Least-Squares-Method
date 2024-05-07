@@ -70,8 +70,7 @@ plt.show()
 
 
 
-## Output:      
-
+## Output:     
 ![Screenshot 2024-04-05 024901](https://github.com/Tarun-2006/Find-the-best-fit-line-using-Least-Squares-Method/assets/145584190/5e8ddf0a-cacd-437c-b4ba-48321923899b)        
 
 
