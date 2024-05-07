@@ -43,7 +43,7 @@ Developed by: Tarun S
 RegisterNumber:  212223040226
 */
 
-'''
+```
 import numpy as np   
 import matplotlib.pyplot as plt     
 x=np.array(eval(input()))    
@@ -63,7 +63,7 @@ print(y_pred)
 plt.scatter(x,y)       
 plt.plot(x,y_pred,color='red')     
 plt.show()  
-'''
+```
 */      
 
 
